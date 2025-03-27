@@ -59,6 +59,7 @@ My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/61918
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dputracaesars@gmail.com) 
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/david-caesar-b5b52a1b9)
 </br></br>
+still want to know more of me? read more ⬇
 </details>
 
 <details>
@@ -69,7 +70,9 @@ My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/61918
 * I want to amplify my impact 💥<br/> 
 * This journey shows my commitment to learning and adaptation 🧗🏻<br/>
 * My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/>
-* I have the habit of learning by reading, listening to a podcast or watching videos on various topic and knowledge.<br/> 🎓
+* I have the habit of learning by reading, listening to a podcast or watching videos on various topic and knowledge 🎓<br/> 
 * I like music 💃🕺 I do music 🎸🎹🎶🎙️<br/>
 * I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
+
+Feel free to connect with me!
 </details>

@@ -31,7 +31,7 @@ https://hyperskill.org/certificates/d67be5f1-c9a8-4dc1-86bc-f4f3b7a5351f.pdf - _
 https://hyperskill.org/certificates/28bcaaf5-18d0-4d20-8c1f-f65189dcfd7f.pdf - _Introduction to Java_<br/>
 https://hyperskill.org/certificates/11382ff0-0cd7-4d80-bbad-2f7a51abf495.pdf - _Frontend Developer_<br/>
 https://hyperskill.org/certificates/c00fab37-de67-4d55-a484-1efb0eae9d49.pdf - _Introduction to Frontend_<br/>
-https://hyperskill.org/certificates/0369a41a-6d96-4bbd-a68b-60f59828700e.pdf - _Introduction to JavaScript_<br/>
+https://hyperskill.org/certificates/0369a41a-6d96-4bbd-a68b-60f59828700e.pdf - _Introduction to JS_<br/>
 
 _all projects are available on my github repositories_<br/>
 

@@ -64,7 +64,7 @@ My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/61918
 <details>
 <summary> - 🌲🌲🌲 - </summary>
 	
-<img align="right" width="30%" height="30%" src="https://github.com/user-attachments/assets/77a00093-dad2-42f3-8332-8154d71d417c">
+<img align="right" width="45%" height="45%" src="https://github.com/user-attachments/assets/77a00093-dad2-42f3-8332-8154d71d417c">
 
 * I want to amplify my impact 💥<br/> 
 * This journey shows my commitment to learning and adaptation 🧗🏻<br/>

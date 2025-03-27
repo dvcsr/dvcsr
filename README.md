@@ -1,7 +1,7 @@
 ## Welcome! I'm David! 🤿
 a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and that is why this github page exists! 🎉🎉🎉
 
-## !!?? 👀
+## !! 👀
 I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and insurance analytics – now expanding into software engineering to drive digital transformation in these sectors.
 
 🔍 Currently seeking:<br/>

@@ -38,7 +38,7 @@ what brought me here? read more ⬇
 	•	Medical underwriting expertise</br>
 	•	Financial underwriting expertise</br>
 	•	Global reinsurance partner communications</br>
-	•	Training experience for insurance companies in underwriting</br>
+	•	Trainer for underwriter accross insurance companies in industry</br>
 	•	Firsthand knowledge of underwriting operations workflow and challenges</br></br>
 
 📃 Miscellaneous Certifications : risk management, key account management, leadership, financial statements.</br></br>

@@ -1,8 +1,24 @@
 ## Welcome! I'm David! 🤿
-a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and so that is why this github page exists! 🎉🎉🎉
+a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and that is why this github page exists! 🎉🎉🎉
 
-<details open>
-<summary> - 💼 about me - </summary>
+## !👀
+I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and insurance analytics – now expanding into software engineering to drive digital transformation in these sectors.
+
+🔍 Currently seeking:<br/>
+* Opportunities to leverage my professional experience of insurance and healthcare systems while growing technical skills through full-time roles or internships.
+* Collaborative environments that value industry insight combined with technical capabilities
+
+💡 What I bring:<br/>
+* Comprehensive understanding of healthcare and insurance workflows
+* Hands-on experience of the industry
+* Insights expertise
+* Fresh technical perspective backed by real-world industry situation
+* Eagerness to contribute while expanding technical capabilities
+
+what brought me here? read more ⬇
+
+<details>
+<summary> - 💼 background about me - </summary>
 
 ## 🧠 My background</br>
  Medical Doctor:</br>
@@ -37,33 +53,23 @@ https://hyperskill.org/certificates/0369a41a-6d96-4bbd-a68b-60f59828700e.pdf - _
 
 _all projects are available on my github repositories_<br/>
 
-My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/619182939)<br/><br/>
+My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/619182939)
 
 ## Find me on</br>
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dputracaesars@gmail.com) 
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/david-caesar-b5b52a1b9)
+</br></br>
 </details>
 
-<details open>
+<details>
 <summary> - 🌲🌲🌲 - </summary>
 	
+<img align="right" width="30%" height="30%" src="https://github.com/user-attachments/assets/77a00093-dad2-42f3-8332-8154d71d417c">
 
-<img align="left" width="33%" hspace="10" src="https://github.com/user-attachments/assets/77a00093-dad2-42f3-8332-8154d71d417c">
-<p>Arduino](https://en.wikipedia.org/wiki/Arduino) (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a [CC-BY-SA][4] license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits.</p>
+* I want to amplify my impact 💥<br/> 
+* This journey shows my commitment to learning and adaptation 🧗🏻<br/>
+* My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/>
+* I have the habit of learning by reading, listening to a podcast or watching videos on various topic and knowledge.<br/> 🎓
+* I like music 💃🕺 I do music 🎸🎹🎶🎙️<br/>
+* I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
 </details>
-
-
-<!--
-**dvcsr/dvcsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

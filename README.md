@@ -73,6 +73,9 @@ still want to know more of me? read more ⬇
 * I have the habit of learning by reading, listening to a podcast or watching videos on various topic and knowledge 🎓<br/> 
 * I like music 💃🕺 I do music 🎸🎹🎶🎙️<br/>
 * I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
+<br/>
+Feel free to connect with me!<br/><br/><br/>
 
-Feel free to connect with me!
+<!--![Visits](https://img.shields.io/badge/Visits-26283-blue)
+
 </details>

@@ -2,7 +2,7 @@
 a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and that is why this github page exists! 🎉🎉🎉
 
 ## !! 👀
-I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and insurance analytics – now expanding into software engineering to drive digital transformation in these sectors.
+I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and life & health insurance – now expanding into software engineering to drive digital transformation in these sectors.
 
 🔍 Currently seeking:<br/>
 * Opportunities to leverage my professional experience of insurance and healthcare systems while growing technical skills through full-time roles or internships.

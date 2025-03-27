@@ -1,6 +1,21 @@
 ## Welcome! I'm David! 🤿
 a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and that is why this github page exists! 🎉🎉🎉
 
+## !! 👀
+I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and insurance analytics – now expanding into software engineering to drive digital transformation in these sectors.
+
+🔍 Currently seeking:<br/>
+* Opportunities to leverage my professional experience of insurance and healthcare systems while growing technical skills through full-time roles or internships.
+* Collaborative environments that value industry insight combined with technical capabilities
+
+💡 What I bring:<br/>
+* Comprehensive understanding of healthcare and insurance workflows
+* Hands-on experience of the industry
+* Insights expertise
+* Fresh technical perspective backed by real-world industry situation
+* Eagerness to contribute while expanding technical capabilities</br></br>
+
+read to know more about me ⬇
 <details>
 <summary> - 💼 background about me - </summary>
 
@@ -46,20 +61,6 @@ My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/61918
 still want to know more of me? read more ⬇
 </details>
 
-## !! 👀
-I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and insurance analytics – now expanding into software engineering to drive digital transformation in these sectors.
-
-🔍 Currently seeking:<br/>
-* Opportunities to leverage my professional experience of insurance and healthcare systems while growing technical skills through full-time roles or internships.
-* Collaborative environments that value industry insight combined with technical capabilities
-
-💡 What I bring:<br/>
-* Comprehensive understanding of healthcare and insurance workflows
-* Hands-on experience of the industry
-* Insights expertise
-* Fresh technical perspective backed by real-world industry situation
-* Eagerness to contribute while expanding technical capabilities
-
 <details>
 <summary> - 🌲🌲🌲 - </summary>
 	
@@ -68,7 +69,7 @@ I'm actively exploring opportunities of any kind that falls into the intersectio
 * I want to amplify my impact 💥<br/> 
 * This journey shows my commitment to learning and adaptation 🧗🏻<br/>
 * My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/>
-* I have the habit of learning by reading, listening to a podcast or watching videos on various topic and knowledge 🎓<br/> 
+* I have the habit of learning by reading, listening to a podcast, watching videos on various topic and knowledge 🎓<br/> 
 * I like music 💃🕺 I do music 🎸🎹🎶🎙️<br/>
 * I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
 <br/>

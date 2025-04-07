@@ -12,15 +12,34 @@ Having exposed to various implementation of digitalization throughout my journey
 - freelance 💼
 - internship 💼
 <br/>
-💡 What I bring:<br/>
-given I am within a pool of candidates with similar level of competence, I do hope my previous professional experience will bring more values to the table 🎯 especially if the team is using Domain Driven Design approach within the healthcare ecoysystem enterprise.
+
+💡 What I bring:
+- given I am within a pool of candidates with similar level of competence, I do hope my previous professional experience will bring more values to the table 🎯 especially if the team is using Domain Driven Design approach within the healthcare ecoysystem enterprise.
 <br/>
-Stack:
+<br/>
+🛠️ Tech stack:
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="WebStorm" title="WebStorm"/></code>
+</div>
+
 <br/><br/>
 
 
 
-read to know more about me ⬇
+read to know more about me ⇣⇣⇣
 <details>
 <summary> - 💼 background about me - </summary>
 
@@ -63,7 +82,7 @@ My complete JetBrains Academy [profile](https://hyperskill.org/my-learning/61918
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dputracaesars@gmail.com) 
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/david-caesar-b5b52a1b9)
 </br></br>
-still want to know more of me? read more ⬇
+still want to know more of me? read more ⇣⇣⇣
 </details>
 
 <details>

@@ -14,7 +14,7 @@ Having exposed to various implementation of digitalization throughout my journey
 <br/>
 
 💡 What I bring:
-- I am committed for being a developer professionally and therefore I would treat any opportunity with high regards and huge desire to learn and grow 🌱
+- I am committed for being a developer professionally and therefore I would treat any opportunity with high regards, best discipline, and  unrelenting desire to learn and grow 🌱
 - given I am within a pool of candidates with similar level of competence, I do hope my previous professional experience will bring more values to the table 🎯 especially if the team is using Domain Driven Design approach for the healthcare ecoysystem enterprise.
 <br/>
 <br/>

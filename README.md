@@ -1,5 +1,5 @@
-## Who I Am? 🤿
-Hi! previously my journey spans across: 
+## Who? 🤿
+Hi! David here! previously my journey spans across: 
 - clinical medicine 🩺
 - healthcare management 🏥
 - health & life insurance underwriting ☂️<br/>

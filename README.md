@@ -1,19 +1,24 @@
-## Welcome! I'm David! 🤿
-a medical doctor 🩺 who aspire to solve a specific problem 🎯 within healthcare ecosystem 🏥 through software engineering 🏗️ and application development and that is why this github page exists! 🎉🎉🎉
+## Who I Am? 🤿
+Hi! previously my journey spans across: 
+- clinical medicine 🩺
+- healthcare management 🏥
+- health & life insurance underwriting ☂️<br/>
 
-## !! 👀
-I'm actively exploring opportunities of any kind that falls into the intersection of healthcare, medicine, insurance, and technology innovation. My background spans clinical medicine, healthcare operations, and life & health insurance – now expanding into software engineering to drive digital transformation in these sectors.
+Having exposed to various implementation of digitalization throughout my journey, witnessing the good and the bad things they did to the organization, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠 to be a professional enterprise software developer 🏗️ <br/>
 
-🔍 Currently seeking:<br/>
-* Opportunities to leverage my professional experience of insurance and healthcare systems while growing technical skills through full-time roles or internships.
-* Collaborative environments that value industry insight combined with technical capabilities
-
+## Serendipity? 👀
+🔍 I'm looking for an opportunity to be involved with enterprise software development while growing my technical skills :
+- full time role 💼
+- freelance 💼
+- internship 💼
+<br/>
 💡 What I bring:<br/>
-* Comprehensive understanding of healthcare and insurance workflows
-* Hands-on experience of the industry
-* Insights expertise
-* Fresh technical perspective backed by real-world industry situation
-* Eagerness to contribute while expanding technical capabilities</br></br>
+given I am within a pool of candidates with similar level of competence, I do hope my previous professional experience will bring more values to the table 🎯 especially if the team is using Domain Driven Design approach within the healthcare ecoysystem enterprise.
+<br/>
+Stack:
+<br/><br/>
+
+
 
 read to know more about me ⬇
 <details>
@@ -68,9 +73,8 @@ still want to know more of me? read more ⬇
 
 * I want to amplify my impact 💥<br/> 
 * This journey shows my commitment to learning and adaptation 🧗🏻<br/>
-* My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/>
-* I have the habit of learning by reading, listening to a podcast, watching videos on various topic and knowledge 🎓<br/> 
-* I like music 💃🕺 I do music 🎸🎹🎶🎙️<br/>
+* My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/> 
+* I do music 💃🕺🎸🎹🎶<br/>
 * I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
 <br/>
 Feel free to connect with me!<br/><br/><br/>

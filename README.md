@@ -8,7 +8,7 @@ Having exposed to various implementation of digitalization throughout my journey
 
 ## Serendipity? 👀
 🔍 I'm looking for an opportunity to be involved with enterprise software development while growing my technical skills :
-- full time role 💼
+- full time 💼
 - freelance 💼
 - internship 💼
 <br/>

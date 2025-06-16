@@ -1,8 +1,8 @@
 ## Who? 🤿
 Hi! David here! previously my journey spans across: 
-- clinical medicine 🩺
-- healthcare management 🏥
-- health & life insurance underwriting ☂️<br/>
+- Clinical Medicine 🩺
+- Healthcare Management & Operation 🏥
+- Life & Health Reinsurance B2B Business ☂️<br/>
 
 Having exposed to various implementation of digitalization throughout my journey, witnessing the good and the bad things they did to the organization, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠🏗️ <br/>
 

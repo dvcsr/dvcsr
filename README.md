@@ -61,7 +61,7 @@ read to know more about me ⇣⇣⇣
 	•	Advanced Trauma Life Support (ATLS), Advanced Cardiac Life Support (ACLS), Comprehensive Tuberculosis</br></br></br>
 	
 
-📃 Certifications : risk management, key account management, leadership, financial statements.</br></br>
+📃 Certifications : Risk Management, Key Account Management, Leadership, Financial Statements.</br></br>
 
 ## 🏗️ My Coding Journey:
 JetBrains Academy:<br/>

@@ -39,7 +39,7 @@ read to know more about me ⇣⇣⇣
    	•	High Value Accounts Management</br>
     	•	Financial Statement Analysis</br>
      	•	Cross-functional collaborations</br>
-      	•	Global reinsurance partner communications</br>
+      	•	Global B2B partnership & communications</br>
       	•	Trainer for underwriter accross insurance companies in industry</br>
        	•	Contributor for many products across the market</br>
 

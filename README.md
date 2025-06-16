@@ -87,9 +87,6 @@ still want to know more of me? read more ⇣⇣⇣
 	
 <img align="right" width="55%" height="55%" src="https://github.com/user-attachments/assets/77a00093-dad2-42f3-8332-8154d71d417c">
 
-* I want to amplify my impact 💥<br/> 
-* This journey shows my commitment to learning and adaptation 🧗🏻<br/>
-* My diverse background, combined with my huge interest for technological advancement hopefully will enable me to bring fresh perspectives to the industry 🚀 <br/> 
 * I do music 💃🕺🎸🎹🎶<br/>
 * I love nature. I will seize every opportunity to be in contact with the nature by going outdoor, diving, hiking, and traveling. ☀️🏝️🌊<br clear="left"/>
 <br/>

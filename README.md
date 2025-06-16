@@ -1,10 +1,10 @@
 ## Who? 🤿
-Hi! David here! previously my journey spans across: 
+Hi, I'm David! Previously my journey spans across: 
 - Clinical Medicine 🩺
 - Healthcare Management & Operation 🏥
 - Life & Health Reinsurance B2B Business ☂️<br/>
 
-Having exposed to various implementation of digitalization throughout my journey, witnessing the good and the bad things they did to the organization, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠🏗️ <br/>
+Having exposed to various implementation of digitalization throughout my journey, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠🏗️ <br/>
 
 🛠️ Tech stack:
 <div align="center">
@@ -31,27 +31,37 @@ read to know more about me ⇣⇣⇣
 <summary> - 💼 background about me - </summary>
 
 ## 🧠 My background</br>
- Medical Doctor:</br>
-	•	Clinical experience in diverse settings (hospital, clinic, disaster relief)</br>
-	•	Understanding of medical diagnoses, treatments, and terminology</br>
-	•	Firsthand knowledge of patient care workflows and challenges</br></br>
 
- Hospital management:</br>
-	•	Led Casemix division team handling health insurance operations and strategic initiatives</br>
-	•	Data analysis for insights on service quality and cost efficiency</br>
+ **Key Account Manager - Underwriter:**</br>
+ 	•	Enterprise Client Strategy & Retention</br>
+  	•	Complex Deal Negotiation & Risk Analysis</br>
+  	•	Process Improvement</br>
+   	•	High Value Accounts Management</br>
+    	•	Financial Statement Analysis</br>
+     	•	Cross-functional collaborations</br>
+      	•	Global reinsurance partner communications</br>
+      	•	Trainer for underwriter accross insurance companies in industry</br>
+       	•	Contributor for many products across the market</br>
+
+
+ **Healthcare Management & Operation:**</br>
+	•	Led casemix division for strategic and operational initiatives</br>
 	•	Strategic planning with C-suite executives</br>
-	•	Financial performance reporting and pattern identification for decision-making to hospital director</br>
-	•	Firsthand knowledge of management operations and challenges</br></br>
- 
- Life&Health Underwriter:</br>
-	•	Risk evaluation and selection across multiple life insurance coverage and product types</br>
-	•	Medical underwriting expertise</br>
-	•	Financial underwriting expertise</br>
-	•	Global reinsurance partner communications</br>
-	•	Trainer for underwriter accross insurance companies in industry</br>
-	•	Firsthand knowledge of underwriting operations workflow and challenges</br></br>
+	•	Enterprise Client Strategy & Retention</br>
+  	•	Complex Deal Negotiation & Risk Analysis</br>
+  	•	Process Improvement</br>
+	•	Financial performance reporting
+	•	Pattern identification for decision-making to hospital director</br>
 
-📃 Miscellaneous Certifications : risk management, key account management, leadership, financial statements.</br></br>
+ **Medical Doctor:**</br>
+ 	• Delivered comprehensive patient care across diverse clinical cases including adult, pediatric, geriatric, obstetric, emergency and
+  	critical care; demonstrating versatility through various settings: primary to tertiary healthcare facilities, home visits, VIP medical escorts, corporate medical check-ups and disaster zones.</br>
+   	•	Led a disaster response: managed critical logistics and reporting for relief operations, managed medical teams to provide direct care to earthquake victims, facilitated international medical partnership.
+</br>
+	•	Advanced Trauma Life Support (ATLS), Advanced Cardiac Life Support (ACLS), Comprehensive Tuberculosis</br></br></br>
+	
+
+📃 Certifications : risk management, key account management, leadership, financial statements.</br></br>
 
 ## 🏗️ My Coding Journey:
 JetBrains Academy:<br/>

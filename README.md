@@ -4,20 +4,8 @@ Hi! David here! previously my journey spans across:
 - healthcare management 🏥
 - health & life insurance underwriting ☂️<br/>
 
-Having exposed to various implementation of digitalization throughout my journey, witnessing the good and the bad things they did to the organization, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠 to be a professional enterprise software developer 🏗️ <br/>
+Having exposed to various implementation of digitalization throughout my journey, witnessing the good and the bad things they did to the organization, I am drawn to tech's transformative power 💥 and therefore I decided to learn how to code 🧠🏗️ <br/>
 
-## Serendipity? 👀
-🔍 I'm looking for an opportunity to be involved with enterprise software development while growing my technical skills :
-- full time 💼
-- freelance 💼
-- internship 💼
-<br/>
-
-💡 What I bring:
-- I am committed for being a developer professionally and therefore I would treat any opportunity with high regards, best discipline, and  unrelenting desire to learn and grow 🌱
-- given I am within a pool of candidates with similar level of competence, I do hope my previous professional experience will bring more values to the table 🎯 especially if the team is using Domain Driven Design approach for the healthcare ecoysystem enterprise.
-<br/>
-<br/>
 🛠️ Tech stack:
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
